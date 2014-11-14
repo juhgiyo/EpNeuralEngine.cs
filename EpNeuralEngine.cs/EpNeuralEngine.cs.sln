@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpNeuralEngine.cs", "EpNeuralEngine.cs\EpNeuralEngine.cs.csproj", "{734D99B0-C01A-450F-9634-2FE41A45CB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralGate", "NeuralGate\NeuralGate.csproj", "{92200209-8F51-4D9D-AC58-140F69853510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{734D99B0-C01A-450F-9634-2FE41A45CB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734D99B0-C01A-450F-9634-2FE41A45CB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734D99B0-C01A-450F-9634-2FE41A45CB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734D99B0-C01A-450F-9634-2FE41A45CB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92200209-8F51-4D9D-AC58-140F69853510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92200209-8F51-4D9D-AC58-140F69853510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92200209-8F51-4D9D-AC58-140F69853510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92200209-8F51-4D9D-AC58-140F69853510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
